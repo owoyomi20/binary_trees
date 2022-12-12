@@ -56,5 +56,5 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 
 ## Author
-Owoyomi Taiwo Adeyemi Rehoboam- [Taiwo](https://github.com/abela12)
+Owoyomi Taiwo Adeyemi Rehoboam- [Taiwo](https://github.com/owoyomi20)
 
